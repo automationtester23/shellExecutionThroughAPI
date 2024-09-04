@@ -1,5 +1,5 @@
 package com.sumedh.linuxapi.ShellRequest;
-//changes done ++7
+//changes done ++8
 public class ShellCommandRequest {
     private String command;
     private String hostname;
